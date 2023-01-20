@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-(
+{
     int a,b;
     printf("enter the number\n");
     scanf("%d%d",&a,&b);
@@ -15,4 +15,4 @@ int main()
     else
     printf("b is greater than a");
     return 0;
-)
+}
